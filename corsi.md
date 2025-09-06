@@ -11,7 +11,7 @@ permalink: ':path/:basename/'
 La scuola propone corsi individuali di strumento per tutte le età, a partire dai 5 anni. Esistono due tipologie di corsi:
 
 - **Corsi strutturati**: con programmi prestabiliti e materie complementari, pensati per accompagnare la crescita musicale fin dall’infanzia e costruire basi solide che, in futuro, potranno aprire le porte a una carriera musicale, a concorsi e ai corsi accademici dei Conservatori.
-- **Corsi liberi e amatoriali**: ideali per chi vuole avvicinarsi alla musica o coltivare la propria passione senza finalità professionali. In questo caso, il programma si modella sui desideri e sugli interessi personali dell’allievo.
+- **Corsi liberi e amatoriali**: ideali per bambini, ragazzi e adulti che vogliono avvicinarsi alla musica o coltivare la propria passione senza finalità professionali. In questo caso, il programma si modella sui desideri e sugli interessi personali dell’allievo.
 
 La scuola offre l’opportunità di svolgere una lezione di prova, per consentire una scelta consapevole dello strumento.
 
