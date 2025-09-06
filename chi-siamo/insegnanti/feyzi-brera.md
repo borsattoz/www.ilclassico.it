@@ -17,4 +17,4 @@ Dal 2003 al 2006 collabora stabilmente con orchestre quali l’Orchestra Unimi, 
 
 Nel 2015 realizza “Perdenti sensibili” il suo primo album di canzoni e l’anno successivo è finalista al concorso “L’Artista che non c’era”. Nel 2019 pubblica il singolo “L’apocalisse Adesso” .
 
-Insegna presso *Il*Classico dal 2010.
+È tra i fondatori dell’Associazione “IlClassico Musica e Arte”, dove insegna dal 2010.
