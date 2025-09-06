@@ -15,9 +15,9 @@ Ha suonato in varie formazioni: da solista, con orchestre e da camera, incidendo
 
 Ha lavorato al Teatro alla Scala come pianista accompagnatrice. In seguito, ha insegnato presso la Scuola Civica di Pavia.
 
-Dal 2000 si specializza in nuove metodologie didattiche musicali.
+Da sempre coltiva una costante ricerca e approfondimento delle metodologie didattiche musicali.
 
 Nel 1989 fonda la scuola di musica "*Il*Classico", con l'obiettivo di promuovere l'insegnamento della musica come strumento per favorire lo sviluppo del talento e dell'espressione artistica. 
 
-Oltre la passione musicale, è da sempre attivamente impegnata nella promozione del verde e della sostenibilità ambientale. Porta avanti il pensiero del padre gestendo la fondazione “Karaca Arboretum”, il museo degli alberi, di cui è co-fondatrice.
+Oltre la passione musicale, è da sempre attivamente impegnata nella promozione del verde e della sostenibilità ambientale. È co-fondatrice della fondazione “Karaca Arboretum”, il museo degli alberi.
 
