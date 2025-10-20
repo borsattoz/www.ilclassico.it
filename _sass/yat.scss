@@ -59,6 +59,24 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+.btn-yat {
+  display: inline-block;
+  padding: 0.6em 1.2em;
+  font-family: $base-font-family;
+  font-size: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+  text-align: center;
+  color: $text-color; /* usa il colore del testo principale */
+  background-color: $background-color; /* colore accent del tema */
+  border: 2px solid $grey-color;
+  border-radius: 0.4em;
+
+  a {
+    text-decoration: none;
+  }
+}
+
 // Import partials.
 @import
   "yat/base",
@@ -70,5 +88,6 @@ $on-laptop:        800px !default;
   // "misc/google-translate",
   "misc/gitment",
   "misc/click-to-top",
-  "misc/wrap-text"
+  "misc/wrap-text",
+  "misc/links"
 ;
