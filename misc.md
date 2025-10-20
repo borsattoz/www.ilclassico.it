@@ -16,8 +16,6 @@ Categories up to 35 years old
 [Apply](https://h5.hbbnuo.com/_100/?t=137#/pages/index/page?p=9669){: class="btn-yat"} 
 
 ## About MISC
-![MISC]({{ 'assets/images/misc_locandina.webp' | relative_url }}){: class="my-wrap-text"}
-
 _Milan International String Competition_ is an international music competition for violin, viola, and cello, with the overarching goal of inspiring and challenging young talented musicians from all around the world. It aims to give them the opportunity to showcase their musical skills before a world-class jury composed of renowned performers and distinguished music professors with international profiles and backgrounds.
 
 A total of €3,000 in prizes will be awarded.
