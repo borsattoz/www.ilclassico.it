@@ -12,9 +12,6 @@ permalink: ':path/misc/'
 
 Categories up to 35 years old
 
-{: style="text-align: center" }
-[Apply](https://h5.hbbnuo.com/_100/?t=137#/pages/index/page?p=9669){: class="btn-yat"} 
-
 ## About MISC
 _Milan International String Competition_ is an international music competition for violin, viola, and cello, with the overarching goal of inspiring and challenging young talented musicians from all around the world. It aims to give them the opportunity to showcase their musical skills before a world-class jury composed of renowned performers and distinguished music professors with international profiles and backgrounds.
 
