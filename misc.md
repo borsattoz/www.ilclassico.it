@@ -27,5 +27,8 @@ We warmly welcome violinists, violists, and cellists from around the world to pa
 ## Jury
 [2026 3rd Milan International String Competition Jury]({{ 'assets/docs/3rd_misc_jury.pdf' | relative_url }})
 
+## Timetable
+[2026 3rd Milan International String Competition Timetable]({{ 'assets/docs/3rd_misc_timetable.pdf' | relative_url }})
+
 ## Contact
 For all questions feel free to contact us by email: _info [at] ilclassico.it_
