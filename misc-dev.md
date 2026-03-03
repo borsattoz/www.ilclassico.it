@@ -128,6 +128,6 @@ The competition aims to continuously improve and expand, offering a structured a
 ### MISC Competition photos 
 The photos from the MISC Competition are available at the following link:
 
-[MISC photos - January 2026](https://www.dropbox.com/scl/fo/jcmzsaufdqqksie29k9tp/ABP4fi_3uRCqa9gBDJxigzM?rlkey=fte5l84is0xsycchuwy7ahlu1&st=0jfkhlwd&dl=0)
+[**MISC photos - January 2026**](https://www.dropbox.com/scl/fo/jcmzsaufdqqksie29k9tp/ABP4fi_3uRCqa9gBDJxigzM?rlkey=fte5l84is0xsycchuwy7ahlu1&st=0jfkhlwd&dl=0)
 
 Anyone who would like high-resolution copies can email us at [{{ site.email }}](mailto:{{ site.email }}), indicating the code of the desired photo. We will send it within a few days.
