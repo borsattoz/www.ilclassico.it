@@ -16,7 +16,7 @@ The Milan International String Competition put itself to the test this year with
     <center><figcaption><i>The competition venue</i></figcaption></center>
 </figure>
 
-Over thirty participants performed before **outstanding juries** made up of professors
+Over thirty participants performed before **outstanding juries** made up of professors:
 
 Dmitri Sitkovesky, Massimo Quarta, Carlo De Martini - Violin
 
@@ -41,7 +41,13 @@ Once the awards ceremony is over, MISC offers competitors, as an integral and fu
 
 The judges emphasise that the feedback session is a valuable opportunity to focus on areas that need further work.
 
-TODO(borsattoz): pic & pic
+<figure>
+    <div class="my-img-container">
+        <img class="my-img" src="{{ 'assets/images/misc/04.webp' | relative_url }}" alt="The judges offer comments to the competitors after the award ceremony">
+        <img class="my-img" src="{{ 'assets/images/misc/05.webp' | relative_url }}" alt="Again, the judges offer comments to the competitors after the award ceremony">
+    </div>
+    <center><figcaption><i>The judges offer comments to the competitors after the award ceremony</i></figcaption></center>
+</figure>
 
 In the same vein, in the days immediately following the event, MISC organises **masterclasses with the professors who were part of the jury**. This allows participants to put into practice and explore, under the careful guidance of the teachers, the advice received at the end of the competition from some of the greatest instrumentalists on the international scene: a unique opportunity.
 
@@ -120,6 +126,8 @@ The competition aims to continuously improve and expand, offering a structured a
 </figure>
 
 ### MISC Competition photos 
-The photos from the MISC Competition are available [at this link](https://www.dropbox.com/scl/fo/jcmzsaufdqqksie29k9tp/ABP4fi_3uRCqa9gBDJxigzM?rlkey=fte5l84is0xsycchuwy7ahlu1&st=0jfkhlwd&dl=0).
+The photos from the MISC Competition are available at the following link:
+
+[MISC photos - January 2026](https://www.dropbox.com/scl/fo/jcmzsaufdqqksie29k9tp/ABP4fi_3uRCqa9gBDJxigzM?rlkey=fte5l84is0xsycchuwy7ahlu1&st=0jfkhlwd&dl=0)
 
 Anyone who would like high-resolution copies can email us at [{{ site.email }}](mailto:{{ site.email }}), indicating the code of the desired photo. We will send it within a few days.
