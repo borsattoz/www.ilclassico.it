@@ -4,4 +4,13 @@
     margin-right: 15px;
     max-width: 250px;
   }
+
+  .my-img-container {
+    display: flex;
+    gap: 20px;
+  }
+
+  .my-img {
+    min-width: 0;
+  }
 }

@@ -13,9 +13,9 @@ Associazione *Il*Classico Musica e Arte APS
 
 via Giuseppe Meda 45, Milano, 20141
 
-**Tel**: <a href="tel:+39028438027">02 8438027</a>
+**Tel**: [02 8438027](tel:+39028438027)
 
-**Mail**: info [at] ilclassico.it
+**Mail**: [{{ site.email }}](mailto:{{ site.email }})
 
 ## Orari scuola
 I corsi individuali di strumento si svolgono dal **lunedì** al **sabato** dalle **9:00** alle **21:00**. I corsi collettivi si svolgono al **pomeriggio** in giorni prestabiliti.
